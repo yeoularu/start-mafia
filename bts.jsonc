@@ -9,14 +9,8 @@
   "orm": "drizzle",
   "backend": "hono",
   "runtime": "bun",
-  "frontend": [
-    "tanstack-router"
-  ],
-  "addons": [
-    "turborepo",
-    "husky",
-    "pwa"
-  ],
+  "frontend": ["tanstack-router"],
+  "addons": ["turborepo", "husky", "pwa"],
   "examples": [],
   "auth": "better-auth",
   "packageManager": "bun",

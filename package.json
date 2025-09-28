@@ -10,6 +10,7 @@
     "prepare": "husky",
     "dev": "turbo dev",
     "build:all": "turbo build",
+    "format": "prettier --write .",
     "lint": "turbo lint",
     "check-types": "turbo check-types",
     "dev:web": "turbo -F web dev",
